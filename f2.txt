@@ -1,0 +1,3 @@
+Hello
+Added content to file f2 from local 
+
